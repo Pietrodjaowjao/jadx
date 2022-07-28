@@ -10,7 +10,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.skylot/jadx-core)](https://search.maven.org/search?q=g:io.github.skylot%20AND%20jadx)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-**jadx** - Dex to Java decompiler (fake copy)
+**jadx** - Dex to Java decompiler (not the official one)
 
 Command line and GUI tools for producing Java source code from Android Dex and Apk files
 
